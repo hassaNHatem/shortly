@@ -7,7 +7,6 @@ import Advanced from './components/Advanced';
 import Lists from './components/Lists';
 import Footer from './components/Footer';
 import MoLinks from './components/MopileLinks'
-import axios from 'axios';
 
 class App extends React.Component {
 constructor(props) {
