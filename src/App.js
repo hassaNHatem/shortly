@@ -28,6 +28,7 @@ togglebar = ()=>{
     })
   }
 }
+
 shorten = (link) =>{
   const axios = require('axios');
   axios.get(`https://api.shrtco.de/v2/shorten?url=${link}`).then(resp => {

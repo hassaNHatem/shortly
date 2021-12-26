@@ -1,6 +1,4 @@
 import React from 'react';
-import img from '../images/bg-boost-desktop.svg'
-import img2 from '../images/logo.svg'
 import face from '../images/icon-facebook.svg'
 import insta from '../images/icon-instagram.svg'
 import pint from '../images/icon-pinterest.svg'
